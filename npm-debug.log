@@ -1,0 +1,312 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save',
+1 verbose cli   'random-js' ]
+2 info using npm@2.15.1
+3 info using node@v0.10.45
+4 verbose install initial load of /home/icspclab9/Desktop/project-sarai-beta/package.json
+5 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/babel-core/package.json
+6 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/babel-eslint/package.json
+7 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/babel-plugin-react-require/package.json
+8 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/babel-polyfill/package.json
+9 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/babel-preset-es2015/package.json
+10 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/babel-preset-react/package.json
+11 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/babel-preset-stage-2/package.json
+12 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/chai/package.json
+13 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/classnames/package.json
+14 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/enzyme/package.json
+15 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/eslint/package.json
+16 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/eslint-plugin-meteor/package.json
+17 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/eslint-plugin-react/package.json
+18 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/mantra-core/package.json
+19 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/marked/package.json
+20 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/material-design-icons/package.json
+21 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/material-design-lite/package.json
+22 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/mocha/package.json
+23 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/node/package.json
+24 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react/package.json
+25 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react-addons-test-utils/package.json
+26 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react-dom/package.json
+27 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react-google-maps/package.json
+28 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react-komposer/package.json
+29 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react-markdown/package.json
+30 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react-mounter/package.json
+31 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react-redux/package.json
+32 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/react-simple-di/package.json
+33 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/redux/package.json
+34 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/redux-devtools/package.json
+35 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/sinon/package.json
+36 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/snyk/package.json
+37 verbose installManyTop reading scoped package data from /home/icspclab9/Desktop/project-sarai-beta/node_modules/underscore/package.json
+38 info package.json babel-polyfill@6.9.1 No description
+39 info package.json node@0.0.0 No description
+40 info package.json node@0.0.0 No repository field.
+41 info package.json node@0.0.0 No license field.
+42 verbose readDependencies loading dependencies from /home/icspclab9/Desktop/project-sarai-beta/package.json
+43 silly cache add args [ 'random-js@^1.0.8', null ]
+44 verbose cache add spec random-js@^1.0.8
+45 silly cache add parsed spec { raw: 'random-js@^1.0.8',
+45 silly cache add   scope: null,
+45 silly cache add   name: 'random-js',
+45 silly cache add   rawSpec: '^1.0.8',
+45 silly cache add   spec: '>=1.0.8 <2.0.0',
+45 silly cache add   type: 'range' }
+46 silly addNamed random-js@>=1.0.8 <2.0.0
+47 verbose addNamed ">=1.0.8 <2.0.0" is a valid semver range for random-js
+48 silly addNameRange { name: 'random-js', range: '>=1.0.8 <2.0.0', hasData: false }
+49 silly mapToRegistry name random-js
+50 silly mapToRegistry using default registry
+51 silly mapToRegistry registry https://registry.npmjs.org/
+52 silly mapToRegistry data { raw: 'random-js',
+52 silly mapToRegistry   scope: null,
+52 silly mapToRegistry   name: 'random-js',
+52 silly mapToRegistry   rawSpec: '',
+52 silly mapToRegistry   spec: 'latest',
+52 silly mapToRegistry   type: 'tag' }
+53 silly mapToRegistry uri https://registry.npmjs.org/random-js
+54 verbose addNameRange registry:https://registry.npmjs.org/random-js not in flight; fetching
+55 verbose request uri https://registry.npmjs.org/random-js
+56 verbose request no auth needed
+57 info attempt registry request try #1 at 15:49:31
+58 verbose request id 4c40c54c2fe56f08
+59 http request GET https://registry.npmjs.org/random-js
+60 http 200 https://registry.npmjs.org/random-js
+61 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+61 verbose headers   etag: '"IIQICLLDLD1JE6G51Q5UOMX3"',
+61 verbose headers   'content-type': 'application/json',
+61 verbose headers   'content-encoding': 'gzip',
+61 verbose headers   'cache-control': 'max-age=300',
+61 verbose headers   'content-length': '6983',
+61 verbose headers   'accept-ranges': 'bytes',
+61 verbose headers   date: 'Wed, 15 Jun 2016 07:49:48 GMT',
+61 verbose headers   via: '1.1 varnish',
+61 verbose headers   age: '0',
+61 verbose headers   connection: 'keep-alive',
+61 verbose headers   'x-served-by': 'cache-sjc3623-SJC',
+61 verbose headers   'x-cache': 'HIT',
+61 verbose headers   'x-cache-hits': '1',
+61 verbose headers   'x-timer': 'S1465976988.381857,VS0,VE87',
+61 verbose headers   vary: 'Accept-Encoding' }
+62 silly get cb [ 200,
+62 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+62 silly get     etag: '"IIQICLLDLD1JE6G51Q5UOMX3"',
+62 silly get     'content-type': 'application/json',
+62 silly get     'content-encoding': 'gzip',
+62 silly get     'cache-control': 'max-age=300',
+62 silly get     'content-length': '6983',
+62 silly get     'accept-ranges': 'bytes',
+62 silly get     date: 'Wed, 15 Jun 2016 07:49:48 GMT',
+62 silly get     via: '1.1 varnish',
+62 silly get     age: '0',
+62 silly get     connection: 'keep-alive',
+62 silly get     'x-served-by': 'cache-sjc3623-SJC',
+62 silly get     'x-cache': 'HIT',
+62 silly get     'x-cache-hits': '1',
+62 silly get     'x-timer': 'S1465976988.381857,VS0,VE87',
+62 silly get     vary: 'Accept-Encoding' } ]
+63 verbose get saving random-js to /home/icspclab9/.npm/registry.npmjs.org/random-js/.cache.json
+64 verbose correctMkdir /home/icspclab9/.npm correctMkdir not in flight; initializing
+65 silly addNameRange number 2 { name: 'random-js', range: '>=1.0.8 <2.0.0', hasData: true }
+66 silly addNameRange versions [ 'random-js',
+66 silly addNameRange   [ '1.0.0',
+66 silly addNameRange     '1.0.1',
+66 silly addNameRange     '1.0.2',
+66 silly addNameRange     '1.0.3',
+66 silly addNameRange     '1.0.4',
+66 silly addNameRange     '1.0.5',
+66 silly addNameRange     '1.0.6',
+66 silly addNameRange     '1.0.7',
+66 silly addNameRange     '1.0.8' ] ]
+67 silly addNamed random-js@1.0.8
+68 verbose addNamed "1.0.8" is a plain semver version for random-js
+69 silly mapToRegistry name random-js
+70 silly mapToRegistry using default registry
+71 silly mapToRegistry registry https://registry.npmjs.org/
+72 silly mapToRegistry data { raw: 'random-js',
+72 silly mapToRegistry   scope: null,
+72 silly mapToRegistry   name: 'random-js',
+72 silly mapToRegistry   rawSpec: '',
+72 silly mapToRegistry   spec: 'latest',
+72 silly mapToRegistry   type: 'tag' }
+73 silly mapToRegistry uri https://registry.npmjs.org/random-js
+74 verbose addRemoteTarball https://registry.npmjs.org/random-js/-/random-js-1.0.8.tgz not in flight; adding
+75 verbose addRemoteTarball [ 'https://registry.npmjs.org/random-js/-/random-js-1.0.8.tgz',
+75 verbose addRemoteTarball   '968fd689a6f25d6c0aac766283de2f688c9c190a' ]
+76 info retry fetch attempt 1 at 15:49:32
+77 info attempt registry request try #1 at 15:49:32
+78 http fetch GET https://registry.npmjs.org/random-js/-/random-js-1.0.8.tgz
+79 http fetch 200 https://registry.npmjs.org/random-js/-/random-js-1.0.8.tgz
+80 silly fetchAndShaCheck shasum 968fd689a6f25d6c0aac766283de2f688c9c190a
+81 verbose addTmpTarball /tmp/npm-22495-a072a8ec/registry.npmjs.org/random-js/-/random-js-1.0.8.tgz not in flight; adding
+82 verbose addTmpTarball already have metadata; skipping unpack for random-js@1.0.8
+83 verbose correctMkdir /home/icspclab9/.npm correctMkdir not in flight; initializing
+84 silly cache afterAdd random-js@1.0.8
+85 verbose afterAdd /home/icspclab9/.npm/random-js/1.0.8/package/package.json not in flight; writing
+86 verbose correctMkdir /home/icspclab9/.npm correctMkdir not in flight; initializing
+87 verbose afterAdd /home/icspclab9/.npm/random-js/1.0.8/package/package.json written
+88 silly install resolved [ { name: 'random-js',
+88 silly install resolved     description: 'A mathematically correct random number generator library for JavaScript.',
+88 silly install resolved     version: '1.0.8',
+88 silly install resolved     author: { name: 'Cameron Kenneth Knight', email: 'ckknight@gmail.com' },
+88 silly install resolved     keywords: [ 'random' ],
+88 silly install resolved     homepage: 'https://github.com/ckknight/random-js',
+88 silly install resolved     bugs: { url: 'https://github.com/ckknight/random-js/issues' },
+88 silly install resolved     license: 'MIT',
+88 silly install resolved     repository: { type: 'git', url: 'git://github.com/ckknight/random-js.git' },
+88 silly install resolved     main: 'lib/random',
+88 silly install resolved     devDependencies:
+88 silly install resolved      { karma: '~0.10.9',
+88 silly install resolved        'karma-chrome-launcher': '~0.1.2',
+88 silly install resolved        'karma-coffee-preprocessor': '~0.1.2',
+88 silly install resolved        'karma-coverage': '~0.1.5',
+88 silly install resolved        'karma-firefox-launcher': '~0.1.3',
+88 silly install resolved        'karma-html2js-preprocessor': '~0.1.0',
+88 silly install resolved        'karma-jasmine': '~0.1.5',
+88 silly install resolved        'karma-phantomjs-launcher': '~0.1.1',
+88 silly install resolved        'karma-requirejs': '~0.2.1',
+88 silly install resolved        'karma-script-launcher': '~0.1.0',
+88 silly install resolved        requirejs: '~2.1.10' },
+88 silly install resolved     scripts:
+88 silly install resolved      { test: 'jasmine-node lib/random.js spec/',
+88 silly install resolved        uglify: 'uglifyjs lib/random.js -o lib/random.min.js -m -c' },
+88 silly install resolved     testling: { files: 'spec/*.js' },
+88 silly install resolved     gitHead: '8a51f321c1fb1725a593fec59299af6ad7118631',
+88 silly install resolved     _id: 'random-js@1.0.8',
+88 silly install resolved     _shasum: '968fd689a6f25d6c0aac766283de2f688c9c190a',
+88 silly install resolved     _from: 'random-js@>=1.0.8 <2.0.0',
+88 silly install resolved     _npmVersion: '2.14.2',
+88 silly install resolved     _nodeVersion: '4.0.0',
+88 silly install resolved     _npmUser: { name: 'ckknight', email: 'ckknight@gmail.com' },
+88 silly install resolved     dist:
+88 silly install resolved      { shasum: '968fd689a6f25d6c0aac766283de2f688c9c190a',
+88 silly install resolved        tarball: 'https://registry.npmjs.org/random-js/-/random-js-1.0.8.tgz' },
+88 silly install resolved     maintainers: [ [Object] ],
+88 silly install resolved     directories: {},
+88 silly install resolved     _resolved: 'https://registry.npmjs.org/random-js/-/random-js-1.0.8.tgz' } ]
+89 info install random-js@1.0.8 into /home/icspclab9/Desktop/project-sarai-beta
+90 info installOne random-js@1.0.8
+91 verbose installOne of random-js to /home/icspclab9/Desktop/project-sarai-beta not in flight; installing
+92 verbose correctMkdir /home/icspclab9/.npm/_locks correctMkdir not in flight; initializing
+93 verbose makeDirectory /home/icspclab9/.npm/_locks creation not in flight; initializing
+94 silly makeDirectory /home/icspclab9/.npm/_locks uid: 1000 gid: 1000
+95 verbose lock using /home/icspclab9/.npm/_locks/random-js-8c129504864acfb9.lock for /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js
+96 silly install write writing random-js 1.0.8 to /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js
+97 verbose unbuild node_modules/random-js
+98 silly gentlyRm /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js is being purged from base /home/icspclab9/Desktop/project-sarai-beta
+99 verbose gentlyRm don't care about contents; nuking /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js
+100 verbose tar unpack /home/icspclab9/.npm/random-js/1.0.8/package.tgz
+101 verbose tar unpacking to /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js
+102 silly gentlyRm /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js is being purged
+103 verbose gentlyRm don't care about contents; nuking /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js
+104 silly gunzTarPerm modes [ '775', '664' ]
+105 silly gunzTarPerm extractEntry package.json
+106 silly gunzTarPerm modified mode [ 'package.json', 420, 436 ]
+107 silly gunzTarPerm extractEntry .npmignore
+108 silly gunzTarPerm modified mode [ '.npmignore', 420, 436 ]
+109 silly gunzTarPerm extractEntry README.md
+110 silly gunzTarPerm modified mode [ 'README.md', 420, 436 ]
+111 silly gunzTarPerm extractEntry LICENSE
+112 silly gunzTarPerm modified mode [ 'LICENSE', 420, 436 ]
+113 silly gunzTarPerm extractEntry karma.conf.js
+114 silly gunzTarPerm modified mode [ 'karma.conf.js', 420, 436 ]
+115 silly gunzTarPerm extractEntry bower.json
+116 silly gunzTarPerm modified mode [ 'bower.json', 420, 436 ]
+117 silly gunzTarPerm extractEntry benchmark/bool.js
+118 silly gunzTarPerm modified mode [ 'benchmark/bool.js', 420, 436 ]
+119 silly gunzTarPerm extractEntry benchmark/engines.js
+120 silly gunzTarPerm modified mode [ 'benchmark/engines.js', 420, 436 ]
+121 silly gunzTarPerm extractEntry benchmark/integer.js
+122 silly gunzTarPerm modified mode [ 'benchmark/integer.js', 420, 436 ]
+123 silly gunzTarPerm extractEntry benchmark/real.js
+124 silly gunzTarPerm modified mode [ 'benchmark/real.js', 420, 436 ]
+125 silly gunzTarPerm extractEntry CHANGELOG.md
+126 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 436 ]
+127 silly gunzTarPerm extractEntry lib/random.js
+128 silly gunzTarPerm modified mode [ 'lib/random.js', 420, 436 ]
+129 silly gunzTarPerm extractEntry lib/random.min.js
+130 silly gunzTarPerm modified mode [ 'lib/random.min.js', 420, 436 ]
+131 silly gunzTarPerm extractEntry spec/RandomSpec.js
+132 silly gunzTarPerm modified mode [ 'spec/RandomSpec.js', 420, 436 ]
+133 silly gunzTarPerm extractEntry spec/engines.browserCryptoSpec.js
+134 silly gunzTarPerm modified mode [ 'spec/engines.browserCryptoSpec.js', 420, 436 ]
+135 silly gunzTarPerm extractEntry spec/engines.mt19937Spec.js
+136 silly gunzTarPerm modified mode [ 'spec/engines.mt19937Spec.js', 420, 436 ]
+137 silly gunzTarPerm extractEntry spec/engines.nativeMathSpec.js
+138 silly gunzTarPerm modified mode [ 'spec/engines.nativeMathSpec.js', 420, 436 ]
+139 silly gunzTarPerm extractEntry spec/dieSpec.js
+140 silly gunzTarPerm modified mode [ 'spec/dieSpec.js', 420, 436 ]
+141 silly gunzTarPerm extractEntry spec/integerSpec.js
+142 silly gunzTarPerm modified mode [ 'spec/integerSpec.js', 420, 436 ]
+143 silly gunzTarPerm extractEntry spec/pickSpec.js
+144 silly gunzTarPerm modified mode [ 'spec/pickSpec.js', 420, 436 ]
+145 silly gunzTarPerm extractEntry spec/pickerSpec.js
+146 silly gunzTarPerm modified mode [ 'spec/pickerSpec.js', 420, 436 ]
+147 silly gunzTarPerm extractEntry spec/realSpec.js
+148 silly gunzTarPerm modified mode [ 'spec/realSpec.js', 420, 436 ]
+149 silly gunzTarPerm extractEntry spec/sampleSpec.js
+150 silly gunzTarPerm modified mode [ 'spec/sampleSpec.js', 420, 436 ]
+151 silly gunzTarPerm extractEntry spec/diceSpec.js
+152 silly gunzTarPerm modified mode [ 'spec/diceSpec.js', 420, 436 ]
+153 silly gunzTarPerm extractEntry spec/shuffleSpec.js
+154 silly gunzTarPerm modified mode [ 'spec/shuffleSpec.js', 420, 436 ]
+155 silly gunzTarPerm extractEntry spec/dateSpec.js
+156 silly gunzTarPerm modified mode [ 'spec/dateSpec.js', 420, 436 ]
+157 silly gunzTarPerm extractEntry spec/stringSpec.js
+158 silly gunzTarPerm modified mode [ 'spec/stringSpec.js', 420, 436 ]
+159 silly gunzTarPerm extractEntry spec/boolSpec.js
+160 silly gunzTarPerm modified mode [ 'spec/boolSpec.js', 420, 436 ]
+161 silly gunzTarPerm extractEntry spec/uuid4Spec.js
+162 silly gunzTarPerm modified mode [ 'spec/uuid4Spec.js', 420, 436 ]
+163 silly gunzTarPerm extractEntry spec/hexSpec.js
+164 silly gunzTarPerm modified mode [ 'spec/hexSpec.js', 420, 436 ]
+165 silly gunzTarPerm extractEntry .travis.yml
+166 silly gunzTarPerm modified mode [ '.travis.yml', 420, 436 ]
+167 silly gunzTarPerm extractEntry test/engines.browserCryptoSpec.js
+168 silly gunzTarPerm modified mode [ 'test/engines.browserCryptoSpec.js', 420, 436 ]
+169 verbose write writing to /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js/package.json
+170 info preinstall random-js@1.0.8
+171 verbose readDependencies loading dependencies from /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js/package.json
+172 verbose readDependencies loading dependencies from /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js/package.json
+173 silly install resolved []
+174 verbose about to build /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js
+175 info build /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js
+176 info linkStuff random-js@1.0.8
+177 silly linkStuff random-js@1.0.8 has /home/icspclab9/Desktop/project-sarai-beta/node_modules as its parent node_modules
+178 verbose linkBins random-js@1.0.8
+179 verbose linkMans random-js@1.0.8
+180 verbose rebuildBundles random-js@1.0.8
+181 info install random-js@1.0.8
+182 info postinstall random-js@1.0.8
+183 verbose unlock done using /home/icspclab9/.npm/_locks/random-js-8c129504864acfb9.lock for /home/icspclab9/Desktop/project-sarai-beta/node_modules/random-js
+184 verbose validateInstall loading /home/icspclab9/Desktop/project-sarai-beta/package.json for validation
+185 verbose stack Error: The package react@0.14.8 does not satisfy its siblings' peerDependencies requirements!
+185 verbose stack     at /home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/lib/install.js:125:32
+185 verbose stack     at /home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/lib/install.js:268:7
+185 verbose stack     at /home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+185 verbose stack     at /home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+185 verbose stack     at cb (/home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+185 verbose stack     at /home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+185 verbose stack     at cb (/home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+185 verbose stack     at /home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+185 verbose stack     at cb (/home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+185 verbose stack     at /home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+186 verbose cwd /home/icspclab9/Desktop/project-sarai-beta
+187 error Linux 3.19.0-25-generic
+188 error argv "node" "/home/icspclab9/.meteor/packages/meteor-tool/.1.3.3.6eji62++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/bin/npm" "install" "--save" "random-js"
+189 error node v0.10.45
+190 error npm  v2.15.1
+191 error code EPEERINVALID
+192 error peerinvalid The package react@0.14.8 does not satisfy its siblings' peerDependencies requirements!
+192 error peerinvalid Peer react-dom@0.14.8 wants react@^0.14.8
+192 error peerinvalid Peer react-google-maps@4.11.0 wants react@^0.14.0 || ^15.0.0
+192 error peerinvalid Peer react-komposer@1.8.0 wants react@^0.14.3 || ^15.0.0
+192 error peerinvalid Peer react-markdown@1.2.4 wants react@>=0.13.3
+192 error peerinvalid Peer react-mounter@1.2.0 wants react@0.14.x || 15.x.x
+192 error peerinvalid Peer react-redux@4.4.5 wants react@^0.14.0 || ^15.0.0-0
+192 error peerinvalid Peer react-simple-di@1.2.0 wants react@^0.14.0 || ^15.0.0
+192 error peerinvalid Peer react-addons-test-utils@15.1.0 wants react@^15.1.0
+192 error peerinvalid Peer redux-devtools@3.3.1 wants react@^0.14.0 || ^15.0.0-rc.1
+192 error peerinvalid Peer enzyme@2.3.0 wants react@0.13.x || 0.14.x || ^15.0.0-0
+193 verbose exit [ 1, true ]
